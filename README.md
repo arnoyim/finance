@@ -1,0 +1,1 @@
+Just a finance analyzer.
